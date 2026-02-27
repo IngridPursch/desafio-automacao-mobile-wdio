@@ -82,3 +82,8 @@ Este repositório representa o **processo de aprendizado, investigação e troub
 
 A automação de API foi concluída com sucesso em repositório separado.  
 A automação mobile permanece como **work in progress**, com base técnica preparada para evolução futura.
+Este projeto contempla a **estrutura, configuração e tentativa de implementação** da automação mobile web utilizando **WebdriverIO + Appium + Chrome no Android**.
+Durante o desenvolvimento, foram enfrentados desafios relacionados à **compatibilidade entre versões do Chrome Mobile, Chromedriver e Android Emulator**, o que impediu a execução completa dos testes no ambiente disponível.
+Apesar disso, toda a **estrutura do projeto**, configuração, documentação e investigação técnica foram realizadas conforme boas práticas, refletindo o processo real de implementação e troubleshooting em automação mobile.
+Este desafio representou meu **primeiro contato prático com automação mobile**, sendo uma experiência de grande aprendizado.
+
